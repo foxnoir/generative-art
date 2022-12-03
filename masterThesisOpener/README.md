@@ -54,7 +54,7 @@
 ## App Preview
 
 <div align="center">
-  <img src="../images/logo.png" alt="Logo" width="100%" height="100%">
+  <img src="../images/preview.png" alt="Logo" width="100%" height="100%">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
