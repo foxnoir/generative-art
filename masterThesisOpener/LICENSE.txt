@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2022 Daniel Shiffmann
+
+The base code is from Daniel Shiffman. Please note his claims and license handling. The same applies to the quote from the hacker ethics of the CCC which is attributed to Steven Levy. I did not make many changes, so everyone is free to use my code or use it as inspiration. However, with a different quote.
