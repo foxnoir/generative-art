@@ -93,18 +93,17 @@ git@github.com:foxnoir/GenerativeArt.git
 
 ## Folder Structure
 
-The core folder structure which flutter provides:
-
 ```
-flutter-app/
-|- android
+masterThesisOpener/
 |- assets
-|- build
-|- images
-|- ios
-|- lib
-|- test
-|- web
+|- src
+  |- index.html
+  |- particle.js
+  |- sketch.js
+  |- style.css
+|- CHANGELOG.md
+|- LICENSE.md
+|- README.md
 ```
 
 ## Changelog
