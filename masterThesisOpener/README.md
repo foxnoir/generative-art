@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <img src="../images/logo.png" alt="Logo" width="80" height="80">
-  <h1 align="center">Trainee Messenger</h1>
+  <h1 align="center">Perlon noise flow field slowly makes a text appear</h1>
 
 <!-- PROJECT desc -->
   <p align="left">
@@ -24,7 +24,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#App-Preview">App Preview</a>
+      <a href="#Result">Result</a>
     </li>
     <li>
       <a href="#tech-stack">Tech Stack</a>
@@ -51,7 +51,7 @@
   <br/>
 </p>
 
-## App Preview
+## Result
 
 <div align="center">
   <img src="../images/preview.png" alt="Logo" width="100%" height="100%">
