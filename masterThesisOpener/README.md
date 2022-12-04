@@ -53,9 +53,7 @@
 
 ## Result
 
-<div align="center">
-  <img src="../images/preview.png" alt="Logo" width="100%" height="100%">
-</div>
+https://user-images.githubusercontent.com/95978076/205491899-620257a1-1717-4b89-9de3-269199aa94e0.mp4
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
